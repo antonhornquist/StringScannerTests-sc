@@ -1,6 +1,6 @@
 # StringScannerTests-sc
 
-Unit tests for StringScanner
+Unit tests for StringScanner-sc
 
 ## Requirements
 
